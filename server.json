@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-22T14:14:56.008Z",
+      "id": 3
+    },
+    {
+      "description": "Mensalidade Academia",
+      "price": 79,
+      "category": "Saude",
+      "type": "outcome",
+      "createdAt": "2023-04-06T21:43:28.752Z",
+      "id": 8
+    }
+  ]
+}
